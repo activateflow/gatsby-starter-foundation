@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Tree of Peace Blog
+tagline: Yeah thats right.
+featuredImage: /assets/43719925_10156714483414911_6043949159424196608_n.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
